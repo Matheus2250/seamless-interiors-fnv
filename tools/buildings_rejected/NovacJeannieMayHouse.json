@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "NovacJeannieMayHouse",
+ "exterior_doors": [
+  "000BBA1A"
+ ],
+ "building_ref": "000864EE",
+ "cell": "000BB9E7",
+ "scale": 0.667,
+ "rejected": [
+  "too low for the player: median headroom 128 (< 150)",
+  "interior scaled to 0.67: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

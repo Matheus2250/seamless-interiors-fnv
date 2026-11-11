@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "ElReyMotelRoom03",
+ "exterior_doors": [
+  "000F5E39"
+ ],
+ "building_ref": "00177837",
+ "cell": "000F5E35"
+}

@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "NelsonHouse03",
+ "exterior_doors": [
+  "0011BF12"
+ ],
+ "building_ref": "001270B5",
+ "cell": "001244CA",
+ "scale": 0.557,
+ "rejected": [
+  "too low for the player: median headroom 141 (< 150)",
+  "interior scaled to 0.56: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

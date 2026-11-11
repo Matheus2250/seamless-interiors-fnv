@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "CottonwoodCoveStorage",
+ "exterior_doors": [
+  "00133E41"
+ ],
+ "building_ref": "0012FC97",
+ "cell": "00133E38"
+}

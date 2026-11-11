@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "CottonwoodCoveMess",
+ "exterior_doors": [
+  "00133E3F"
+ ],
+ "building_ref": "00132082",
+ "cell": "00130B8C",
+ "scale": 0.586,
+ "rejected": [
+  "too low for the player: median headroom 130 (< 150)",
+  "interior scaled to 0.59: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

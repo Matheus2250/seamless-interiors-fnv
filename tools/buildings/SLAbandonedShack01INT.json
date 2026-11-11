@@ -1,0 +1,7 @@
+{
+ "enabled": false,
+ "id": "SLAbandonedShack01INT",
+ "exterior_door": "001539B3",
+ "building_ref": "001539C3",
+ "cell": "00153928"
+}

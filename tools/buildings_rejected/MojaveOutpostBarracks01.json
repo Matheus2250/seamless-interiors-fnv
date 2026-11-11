@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "MojaveOutpostBarracks01",
+ "exterior_doors": [
+  "00143859"
+ ],
+ "building_ref": "0013D68A",
+ "cell": "00141AA5",
+ "scale": 0.709,
+ "rejected": [
+  "interior scaled to 0.71: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "SLElDoradoGasINT",
+ "exterior_doors": [
+  "00156005"
+ ],
+ "building_ref": "00155959",
+ "cell": "00155EF0"
+}

@@ -1,0 +1,6 @@
+{
+ "id": "GSGeneralStore",
+ "exterior_door": "00106373",
+ "building_ref": "00101CA6",
+ "package_radius": {"00168FAC": 512, "00168FAD": 1024}
+}

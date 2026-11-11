@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "NovacPlayersRoom",
+ "exterior_doors": [
+  "000B97D6"
+ ],
+ "building_ref": "000864EA",
+ "cell": "000B8A7D"
+}

@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "NellisBarracks04",
+ "exterior_doors": [
+  "001051D3"
+ ],
+ "building_ref": "001007CE",
+ "cell": "00102196"
+}

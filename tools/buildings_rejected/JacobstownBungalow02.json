@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "JacobstownBungalow02",
+ "exterior_doors": [
+  "001464F1"
+ ],
+ "building_ref": "00144E72",
+ "cell": "00146B8D",
+ "scale": 0.601,
+ "rejected": [
+  "interior scaled to 0.60: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

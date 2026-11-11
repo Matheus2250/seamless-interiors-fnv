@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "PrimmSheriffStation",
+ "exterior_doors": [
+  "000AFF43"
+ ],
+ "building_ref": "000AFF44",
+ "cell": "0009A288",
+ "scale": 0.727,
+ "rejected": [
+  "interior scaled to 0.73: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

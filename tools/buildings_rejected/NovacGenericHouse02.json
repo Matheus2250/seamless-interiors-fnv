@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "NovacGenericHouse02",
+ "exterior_doors": [
+  "000B980A"
+ ],
+ "building_ref": "000864EF",
+ "cell": "000B975B",
+ "scale": 0.521,
+ "rejected": [
+  "too low for the player: median headroom 100 (< 150)",
+  "interior scaled to 0.52: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

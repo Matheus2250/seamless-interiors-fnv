@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "FreesideSilverRush",
+ "exterior_doors": [
+  "00111510"
+ ],
+ "building_ref": "0011232F",
+ "cell": "0010E029",
+ "scale": 0.705,
+ "rejected": [
+  "interior scaled to 0.70: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

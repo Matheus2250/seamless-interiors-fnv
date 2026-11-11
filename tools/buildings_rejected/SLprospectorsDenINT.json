@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "SLprospectorsDenINT",
+ "exterior_doors": [
+  "001536C5"
+ ],
+ "building_ref": "001536BA",
+ "cell": "00153680",
+ "scale": 0.428,
+ "rejected": [
+  "interior scaled to 0.43: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

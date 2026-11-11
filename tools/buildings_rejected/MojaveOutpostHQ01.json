@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "MojaveOutpostHQ01",
+ "exterior_doors": [
+  "001437CE"
+ ],
+ "building_ref": "0014125C",
+ "cell": "00141AA6",
+ "scale": 0.645,
+ "rejected": [
+  "interior scaled to 0.65: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "NelsonHouse04",
+ "exterior_doors": [
+  "001248DA"
+ ],
+ "building_ref": "001270B0",
+ "cell": "001244C9",
+ "scale": 0.591,
+ "rejected": [
+  "interior scaled to 0.59: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

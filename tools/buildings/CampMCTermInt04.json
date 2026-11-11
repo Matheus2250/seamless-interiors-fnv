@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "CampMCTermInt04",
+ "exterior_doors": [
+  "00176A35",
+  "00176A36"
+ ],
+ "building_ref": "000ED485",
+ "cell": "000F47B3"
+}

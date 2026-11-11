@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "CottonwoodCoveRestroomF",
+ "exterior_doors": [
+  "00133E40"
+ ],
+ "building_ref": "00133E3C",
+ "cell": "00133E39"
+}

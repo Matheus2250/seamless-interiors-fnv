@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "NovacAndysRoom",
+ "exterior_doors": [
+  "000B8606"
+ ],
+ "building_ref": "000864F5",
+ "cell": "000B85C1",
+ "scale": 0.715,
+ "rejected": [
+  "interior scaled to 0.71: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

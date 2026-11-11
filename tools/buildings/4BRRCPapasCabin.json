@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "4BRRCPapasCabin",
+ "exterior_doors": [
+  "0013E64B"
+ ],
+ "building_ref": "0013D90D",
+ "cell": "0013E5D2",
+ "scale": 0.868
+}

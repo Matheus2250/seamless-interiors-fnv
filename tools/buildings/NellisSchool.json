@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "NellisSchool",
+ "exterior_doors": [
+  "00104E33"
+ ],
+ "building_ref": "00104093",
+ "cell": "001055C5"
+}

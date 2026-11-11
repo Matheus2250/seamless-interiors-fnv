@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "CampSearchlightEdwards",
+ "exterior_doors": [
+  "0013FE96"
+ ],
+ "building_ref": "0013D99C",
+ "cell": "0013F41C",
+ "scale": 0.74,
+ "rejected": [
+  "too low for the player: median headroom 142 (< 150)",
+  "interior scaled to 0.74: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

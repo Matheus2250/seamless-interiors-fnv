@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "ElReyMotelRoom01",
+ "exterior_doors": [
+  "000EEEE1"
+ ],
+ "building_ref": "00177837",
+ "cell": "000E551B",
+ "scale": 0.858
+}

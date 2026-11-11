@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "FreesideFortInterior",
+ "exterior_doors": [
+  "0011CB44"
+ ],
+ "building_ref": "0012DEB7",
+ "cell": "0011ED01",
+ "scale": 0.89
+}

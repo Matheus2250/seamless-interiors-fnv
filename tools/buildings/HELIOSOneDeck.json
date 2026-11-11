@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "HELIOSOneDeck",
+ "exterior_doors": [
+  "000E2C54"
+ ],
+ "building_ref": "000D7A48",
+ "cell": "000D8052",
+ "scale": 0.827
+}

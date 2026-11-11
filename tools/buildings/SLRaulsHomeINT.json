@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "SLRaulsHomeINT",
+ "exterior_doors": [
+  "00155A5B"
+ ],
+ "building_ref": "00155A5F",
+ "cell": "00155A05"
+}

@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "SLNuclearTestShackINT",
+ "exterior_doors": [
+  "0015461C"
+ ],
+ "building_ref": "00171765",
+ "cell": "001544AF",
+ "scale": 0.456,
+ "rejected": [
+  "interior scaled to 0.46: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

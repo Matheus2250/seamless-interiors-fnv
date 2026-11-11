@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "NiptonHouse7Tinker",
+ "exterior_doors": [
+  "0013949F"
+ ],
+ "building_ref": "00137D49",
+ "cell": "001385C4",
+ "scale": 0.872
+}

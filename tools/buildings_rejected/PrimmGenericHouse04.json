@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "PrimmGenericHouse04",
+ "exterior_doors": [
+  "000AD772"
+ ],
+ "building_ref": "000A0DAA",
+ "cell": "000A2086",
+ "scale": 0.679,
+ "rejected": [
+  "too low for the player: median headroom 130 (< 150)",
+  "interior scaled to 0.68: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

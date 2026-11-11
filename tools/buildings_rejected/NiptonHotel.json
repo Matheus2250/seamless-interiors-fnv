@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "NiptonHotel",
+ "exterior_doors": [
+  "001370CA"
+ ],
+ "building_ref": "00137831",
+ "cell": "00136FCF",
+ "scale": 0.546,
+ "rejected": [
+  "too low for the player: median headroom 140 (< 150)",
+  "interior scaled to 0.55: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

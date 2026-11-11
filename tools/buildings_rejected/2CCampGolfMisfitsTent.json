@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "2CCampGolfMisfitsTent",
+ "exterior_doors": [
+  "00155261"
+ ],
+ "building_ref": "001009B0",
+ "cell": "001671F0",
+ "scale": 0.596,
+ "rejected": [
+  "interior scaled to 0.60: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "FreesideKingsHouse",
+ "exterior_doors": [
+  "0011150F"
+ ],
+ "building_ref": "0013B8FA",
+ "cell": "0010E03B",
+ "scale": 0.418,
+ "rejected": [
+  "too low for the player: median headroom 107 (< 150)",
+  "interior scaled to 0.42: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

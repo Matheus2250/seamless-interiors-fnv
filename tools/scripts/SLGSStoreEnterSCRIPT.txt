@@ -1,0 +1,19 @@
+scn SLGSStoreEnterSCRIPT
+float fx
+float fy
+float fz
+float fa
+Begin OnActivate
+  if IsActionRef player == 1
+    set fx to SLGSStoreDestInREF.GetPos x
+    set fy to SLGSStoreDestInREF.GetPos y
+    set fz to SLGSStoreDestInREF.GetPos z
+    set fa to SLGSStoreDestInREF.GetAngle z
+    player.SetPos x fx
+    player.SetPos y fy
+    player.SetPos z fz
+    player.SetAngle z fa
+  else
+    Activate
+  endif
+End

@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "SLJeanSkyDivingINT",
+ "exterior_doors": [
+  "00152968"
+ ],
+ "building_ref": "000E871B",
+ "cell": "00148A5B",
+ "scale": 0.902
+}

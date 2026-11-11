@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "NellisRefinery",
+ "exterior_doors": [
+  "00104E1B"
+ ],
+ "building_ref": "001045EC",
+ "cell": "001067F6"
+}

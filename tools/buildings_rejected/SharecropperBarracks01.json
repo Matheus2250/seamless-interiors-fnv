@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "SharecropperBarracks01",
+ "exterior_doors": [
+  "000F46EA"
+ ],
+ "building_ref": "00175FD0",
+ "cell": "000F4615",
+ "scale": 0.547,
+ "rejected": [
+  "too low for the player: median headroom 114 (< 150)",
+  "interior scaled to 0.55: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

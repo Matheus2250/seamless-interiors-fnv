@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "NellisWorkshop",
+ "exterior_doors": [
+  "00104E2F"
+ ],
+ "building_ref": "0010569D",
+ "cell": "00105894",
+ "scale": 0.915
+}

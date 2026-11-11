@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "NovacMotelRoomQueen1",
+ "exterior_doors": [
+  "000CD4AE"
+ ],
+ "building_ref": "000864EA",
+ "cell": "000CD3E5"
+}

@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "GSAbandonedShack",
+ "exterior_doors": [
+  "00125BB1"
+ ],
+ "building_ref": "00125BB4",
+ "cell": "00125B32",
+ "scale": 0.72,
+ "rejected": [
+  "interior scaled to 0.72: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

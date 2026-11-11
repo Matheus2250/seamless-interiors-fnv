@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "SLNHPStationINT",
+ "exterior_doors": [
+  "00153404"
+ ],
+ "building_ref": "001534F2",
+ "cell": "001532F6",
+ "scale": 0.755
+}

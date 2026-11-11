@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "CampSearchlightPoliceStation",
+ "exterior_doors": [
+  "0013F55D"
+ ],
+ "building_ref": "0013D9FC",
+ "cell": "0013F41A",
+ "scale": 0.559,
+ "rejected": [
+  "too low for the player: median headroom 143 (< 150)",
+  "interior scaled to 0.56: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

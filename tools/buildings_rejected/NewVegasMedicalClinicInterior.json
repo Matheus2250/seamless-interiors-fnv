@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "NewVegasMedicalClinicInterior",
+ "exterior_doors": [
+  "000F9DCC"
+ ],
+ "building_ref": "00138D31",
+ "cell": "000ED19F",
+ "scale": 0.493,
+ "rejected": [
+  "too low for the player: median headroom 126 (< 150)",
+  "interior scaled to 0.49: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

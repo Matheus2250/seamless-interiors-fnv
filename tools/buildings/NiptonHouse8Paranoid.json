@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "NiptonHouse8Paranoid",
+ "exterior_doors": [
+  "0013955F"
+ ],
+ "building_ref": "00137397",
+ "cell": "001393F6",
+ "scale": 0.85
+}

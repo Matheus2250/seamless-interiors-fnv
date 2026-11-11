@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "BCKhanHideout",
+ "exterior_doors": [
+  "0014E92E"
+ ],
+ "building_ref": "0014C74E",
+ "cell": "001716CA",
+ "scale": 0.584,
+ "rejected": [
+  "too low for the player: median headroom 149 (< 150)",
+  "interior scaled to 0.58: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "UnderpassStClair",
+ "exterior_doors": [
+  "00127DDC"
+ ],
+ "building_ref": "000F3A8E",
+ "cell": "00127DCD",
+ "scale": 0.469,
+ "rejected": [
+  "too low for the player: median headroom 126 (< 150)",
+  "interior scaled to 0.47: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

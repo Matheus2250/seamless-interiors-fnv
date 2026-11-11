@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "PrimmTents",
+ "exterior_doors": [
+  "00156852"
+ ],
+ "building_ref": "000E4205",
+ "cell": "001567FE",
+ "scale": 0.664,
+ "rejected": [
+  "interior shell sticks 77 out of the building",
+  "interior scaled to 0.66: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "GSProspectorSaloonInterior",
+ "exterior_doors": [
+  "0010636F"
+ ],
+ "building_ref": "001055E0",
+ "cell": "00106185",
+ "scale": 0.82
+}

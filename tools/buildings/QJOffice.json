@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "QJOffice",
+ "exterior_doors": [
+  "000E6489"
+ ],
+ "building_ref": "000E5B96",
+ "cell": "000E6486",
+ "scale": 0.763
+}

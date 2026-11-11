@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "TrainStationInterior",
+ "exterior_doors": [
+  "000E97FC"
+ ],
+ "building_ref": "000E8642",
+ "cell": "000E8EC5",
+ "scale": 0.761
+}

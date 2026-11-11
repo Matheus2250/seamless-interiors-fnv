@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "CottonwoodCoveHQ",
+ "exterior_doors": [
+  "00133E43"
+ ],
+ "building_ref": "0012FC9D",
+ "cell": "00130B8B",
+ "scale": 0.751
+}

@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "CrimsonCaravanBarracks02",
+ "exterior_doors": [
+  "0016A9B8"
+ ],
+ "building_ref": "000F2CF6",
+ "cell": "000F3BDC",
+ "scale": 0.514,
+ "rejected": [
+  "too low for the player: median headroom 107 (< 150)",
+  "interior scaled to 0.51: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

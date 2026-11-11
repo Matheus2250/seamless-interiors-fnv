@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "BlackMountainRadio",
+ "exterior_doors": [
+  "000E618A"
+ ],
+ "building_ref": "000E854D",
+ "cell": "000E60D7",
+ "scale": 0.902
+}

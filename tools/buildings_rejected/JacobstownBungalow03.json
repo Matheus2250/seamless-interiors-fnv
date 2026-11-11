@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "JacobstownBungalow03",
+ "exterior_doors": [
+  "001464F4"
+ ],
+ "building_ref": "00144E6E",
+ "cell": "00146BE4",
+ "scale": 0.584,
+ "rejected": [
+  "too low for the player: median headroom 150 (< 150)",
+  "interior scaled to 0.58: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

@@ -1,0 +1,19 @@
+scn SLGSStoreExitSCRIPT
+float fx
+float fy
+float fz
+float fa
+Begin OnActivate
+  if IsActionRef player == 1
+    set fx to SLGSStoreDestOutREF.GetPos x
+    set fy to SLGSStoreDestOutREF.GetPos y
+    set fz to SLGSStoreDestOutREF.GetPos z
+    set fa to SLGSStoreDestOutREF.GetAngle z
+    player.SetPos x fx
+    player.SetPos y fy
+    player.SetPos z fz
+    player.SetAngle z fa
+  else
+    Activate
+  endif
+End

@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "HooverDamIntIntakeTower02",
+ "exterior_doors": [
+  "00135E5E"
+ ],
+ "building_ref": "00124B1B",
+ "cell": "00134B9D"
+}

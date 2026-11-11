@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "NiptonHouse1",
+ "exterior_doors": [
+  "001386D9"
+ ],
+ "building_ref": "00137D4A",
+ "cell": "001385CA",
+ "scale": 0.687,
+ "rejected": [
+  "too low for the player: median headroom 132 (< 150)",
+  "interior scaled to 0.69: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "SLSunkenBeachHouse01INT",
+ "exterior_doors": [
+  "00154927"
+ ],
+ "building_ref": "00154922",
+ "cell": "00154828",
+ "scale": 0.621,
+ "rejected": [
+  "too low for the player: median headroom 138 (< 150)",
+  "interior scaled to 0.62: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

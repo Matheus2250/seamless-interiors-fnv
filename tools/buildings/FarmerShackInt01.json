@@ -1,0 +1,7 @@
+{
+ "enabled": false,
+ "id": "FarmerShackInt01",
+ "exterior_door": "00102627",
+ "building_ref": "00101315",
+ "cell": "001025E1"
+}

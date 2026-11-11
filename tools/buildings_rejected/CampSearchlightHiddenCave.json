@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "CampSearchlightHiddenCave",
+ "exterior_doors": [
+  "0014666E"
+ ],
+ "building_ref": "0014667E",
+ "cell": "00146607",
+ "scale": 0.514,
+ "rejected": [
+  "interior scaled to 0.51: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "NovacGiftShop",
+ "exterior_doors": [
+  "0014EDE2"
+ ],
+ "building_ref": "0008D79D",
+ "cell": "000B1670",
+ "scale": 0.732,
+ "rejected": [
+  "interior scaled to 0.73: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

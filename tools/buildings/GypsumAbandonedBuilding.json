@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "GypsumAbandonedBuilding",
+ "exterior_doors": [
+  "0012B70E"
+ ],
+ "building_ref": "0012B67F",
+ "cell": "0012B7FB"
+}

@@ -1,0 +1,13 @@
+{
+ "enabled": false,
+ "id": "BCSaloonInterior",
+ "exterior_doors": [
+  "0010D419"
+ ],
+ "building_ref": "0013445B",
+ "cell": "0010D3F1",
+ "scale": 0.635,
+ "rejected": [
+  "interior scaled to 0.64: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

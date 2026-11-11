@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "JacobstownLodge",
+ "exterior_doors": [
+  "0013D7FB"
+ ],
+ "building_ref": "00144E6A",
+ "cell": "0013CA81",
+ "scale": 0.374,
+ "rejected": [
+  "too low for the player: median headroom 134 (< 150)",
+  "interior scaled to 0.37: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

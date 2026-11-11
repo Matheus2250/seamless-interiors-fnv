@@ -1,0 +1,10 @@
+{
+ "enabled": false,
+ "id": "NiptonGeneralStore",
+ "exterior_doors": [
+  "001330F2"
+ ],
+ "building_ref": "0012D11C",
+ "cell": "00132933",
+ "scale": 0.881
+}

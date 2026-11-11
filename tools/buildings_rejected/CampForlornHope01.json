@@ -1,0 +1,14 @@
+{
+ "enabled": false,
+ "id": "CampForlornHope01",
+ "exterior_doors": [
+  "00120DDB"
+ ],
+ "building_ref": "00120317",
+ "cell": "00120DCF",
+ "scale": 0.382,
+ "rejected": [
+  "too low for the player: median headroom 121 (< 150)",
+  "interior scaled to 0.38: inner doorways (~176) end up lower than the player (128); minimum scale is 0.75"
+ ]
+}

@@ -1,0 +1,19 @@
+# saídas do pipeline, capturas de crash e dumps do executável do jogo (nunca publicar)
+/out/
+/tools/out/
+
+# pacotes prontos: contêm modelos do jogo modificados; saem por release, não pelo git
+/dist/
+
+# especificação NifTools (baixar de github.com/niftools/nifxml)
+/reference/
+
+# rascunhos e caches
+/tools/_*.py
+/tools/test_output.txt
+__pycache__/
+*.pyc
+
+# local
+.claude/
+*.bak

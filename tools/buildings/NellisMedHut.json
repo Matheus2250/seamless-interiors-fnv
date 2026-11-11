@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "NellisMedHut",
+ "exterior_doors": [
+  "00104E34"
+ ],
+ "building_ref": "00104094",
+ "cell": "00105177"
+}

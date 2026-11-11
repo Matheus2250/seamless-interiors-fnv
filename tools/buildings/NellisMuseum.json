@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "NellisMuseum",
+ "exterior_doors": [
+  "00104E2E"
+ ],
+ "building_ref": "0010569C",
+ "cell": "00106499"
+}

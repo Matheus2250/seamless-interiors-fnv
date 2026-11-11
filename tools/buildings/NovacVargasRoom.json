@@ -1,0 +1,9 @@
+{
+ "enabled": false,
+ "id": "NovacVargasRoom",
+ "exterior_doors": [
+  "000CAFA4"
+ ],
+ "building_ref": "000864EA",
+ "cell": "000CAE84"
+}
